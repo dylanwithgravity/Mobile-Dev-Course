@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fibonacci</string>
+    <string name="fibonacci">Number</string>
+    <string name="next">Next</string>
+    <string name="reset">RESET</string>
+    <string name="number">1</string>
+</resources>
